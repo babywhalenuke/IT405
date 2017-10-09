@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="landingText">Welcome to Number Guess</string>
+    <string name="guessingDescriptionText">Guess a number between 1 and 20</string>
+    <string name="numberEntryText">Enter a number</string>
+    <string name="guessCountText">It took you this many guesses:</string>
+    <string name="guessCountHint">number of guesses</string>
+    <string name="intentCounterTag">intentCounterTag</string>
+</resources>
